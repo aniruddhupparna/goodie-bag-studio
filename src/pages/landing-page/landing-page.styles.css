@@ -1,0 +1,32 @@
+.landing-page-container {
+    width: 100vw;
+    position: absolute;
+    top: 0;
+}
+
+.landing-upper {
+    height: 50vh;
+    width: 100%;
+    background: whitesmoke;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+}
+
+.landing-title {
+    font-size: 2rem;
+    font-family: 'Roboto';
+    font-weight: bold;
+    color: black;
+}
+
+.projects-btn-container {
+    margin:30px;
+    text-align: center;
+}
+
+.goodie-bag-logo {
+    width: 200px;
+    height: 200px;
+}

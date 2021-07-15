@@ -1,0 +1,19 @@
+.header {
+    background: whitesmoke;
+    display: flex;
+    height: 60px;
+    align-items: center;
+    color: black;
+    font-family: 'Roboto';
+}
+
+.title-container {
+    font-size: 25px;
+    font-weight: bold;
+    padding: 0 25px;
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+}
