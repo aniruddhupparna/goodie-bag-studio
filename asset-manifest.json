@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/goodie-bag-studio/static/css/main.519e00a7.chunk.css",
-    "main.js": "/goodie-bag-studio/static/js/main.b83cf406.chunk.js",
-    "main.js.map": "/goodie-bag-studio/static/js/main.b83cf406.chunk.js.map",
-    "runtime-main.js": "/goodie-bag-studio/static/js/runtime-main.e7aae4e9.js",
-    "runtime-main.js.map": "/goodie-bag-studio/static/js/runtime-main.e7aae4e9.js.map",
-    "static/js/2.2de2b65a.chunk.js": "/goodie-bag-studio/static/js/2.2de2b65a.chunk.js",
-    "static/js/2.2de2b65a.chunk.js.map": "/goodie-bag-studio/static/js/2.2de2b65a.chunk.js.map",
-    "static/js/3.7f9f47c9.chunk.js": "/goodie-bag-studio/static/js/3.7f9f47c9.chunk.js",
-    "static/js/3.7f9f47c9.chunk.js.map": "/goodie-bag-studio/static/js/3.7f9f47c9.chunk.js.map",
+    "main.css": "/goodie-bag-studio/static/css/main.4ff1fc1d.chunk.css",
+    "main.js": "/goodie-bag-studio/static/js/main.a33e9bce.chunk.js",
+    "main.js.map": "/goodie-bag-studio/static/js/main.a33e9bce.chunk.js.map",
+    "runtime-main.js": "/goodie-bag-studio/static/js/runtime-main.4e0e9390.js",
+    "runtime-main.js.map": "/goodie-bag-studio/static/js/runtime-main.4e0e9390.js.map",
+    "static/js/2.f0e36270.chunk.js": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js",
+    "static/js/2.f0e36270.chunk.js.map": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js.map",
+    "static/js/3.ba8c78fe.chunk.js": "/goodie-bag-studio/static/js/3.ba8c78fe.chunk.js",
+    "static/js/3.ba8c78fe.chunk.js.map": "/goodie-bag-studio/static/js/3.ba8c78fe.chunk.js.map",
     "index.html": "/goodie-bag-studio/index.html",
-    "static/css/main.519e00a7.chunk.css.map": "/goodie-bag-studio/static/css/main.519e00a7.chunk.css.map",
-    "static/js/2.2de2b65a.chunk.js.LICENSE.txt": "/goodie-bag-studio/static/js/2.2de2b65a.chunk.js.LICENSE.txt",
-    "static/media/gb-logo-dark.3b6a4526.jpg": "/goodie-bag-studio/static/media/gb-logo-dark.3b6a4526.jpg"
+    "static/css/main.4ff1fc1d.chunk.css.map": "/goodie-bag-studio/static/css/main.4ff1fc1d.chunk.css.map",
+    "static/js/2.f0e36270.chunk.js.LICENSE.txt": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js.LICENSE.txt",
+    "static/media/gb-logo-dark.3b6a4526.jpg": "/goodie-bag-studio/static/media/gb-logo-dark.3b6a4526.jpg",
+    "static/media/landing-page.styles.css": "/goodie-bag-studio/static/media/landing-bg1.d8cfe3e4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.e7aae4e9.js",
-    "static/js/2.2de2b65a.chunk.js",
-    "static/css/main.519e00a7.chunk.css",
-    "static/js/main.b83cf406.chunk.js"
+    "static/js/runtime-main.4e0e9390.js",
+    "static/js/2.f0e36270.chunk.js",
+    "static/css/main.4ff1fc1d.chunk.css",
+    "static/js/main.a33e9bce.chunk.js"
   ]
 }
