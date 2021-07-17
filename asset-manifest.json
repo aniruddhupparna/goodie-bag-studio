@@ -1,24 +1,26 @@
 {
   "files": {
-    "main.css": "/goodie-bag-studio/static/css/main.4ff1fc1d.chunk.css",
-    "main.js": "/goodie-bag-studio/static/js/main.a33e9bce.chunk.js",
-    "main.js.map": "/goodie-bag-studio/static/js/main.a33e9bce.chunk.js.map",
-    "runtime-main.js": "/goodie-bag-studio/static/js/runtime-main.4e0e9390.js",
-    "runtime-main.js.map": "/goodie-bag-studio/static/js/runtime-main.4e0e9390.js.map",
-    "static/js/2.f0e36270.chunk.js": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js",
-    "static/js/2.f0e36270.chunk.js.map": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js.map",
-    "static/js/3.ba8c78fe.chunk.js": "/goodie-bag-studio/static/js/3.ba8c78fe.chunk.js",
-    "static/js/3.ba8c78fe.chunk.js.map": "/goodie-bag-studio/static/js/3.ba8c78fe.chunk.js.map",
+    "main.css": "/goodie-bag-studio/static/css/main.81ba1158.chunk.css",
+    "main.js": "/goodie-bag-studio/static/js/main.1eeb37c6.chunk.js",
+    "main.js.map": "/goodie-bag-studio/static/js/main.1eeb37c6.chunk.js.map",
+    "runtime-main.js": "/goodie-bag-studio/static/js/runtime-main.804b3cf0.js",
+    "runtime-main.js.map": "/goodie-bag-studio/static/js/runtime-main.804b3cf0.js.map",
+    "static/js/2.054a2877.chunk.js": "/goodie-bag-studio/static/js/2.054a2877.chunk.js",
+    "static/js/2.054a2877.chunk.js.map": "/goodie-bag-studio/static/js/2.054a2877.chunk.js.map",
+    "static/js/3.26786f06.chunk.js": "/goodie-bag-studio/static/js/3.26786f06.chunk.js",
+    "static/js/3.26786f06.chunk.js.map": "/goodie-bag-studio/static/js/3.26786f06.chunk.js.map",
     "index.html": "/goodie-bag-studio/index.html",
-    "static/css/main.4ff1fc1d.chunk.css.map": "/goodie-bag-studio/static/css/main.4ff1fc1d.chunk.css.map",
-    "static/js/2.f0e36270.chunk.js.LICENSE.txt": "/goodie-bag-studio/static/js/2.f0e36270.chunk.js.LICENSE.txt",
+    "static/css/main.81ba1158.chunk.css.map": "/goodie-bag-studio/static/css/main.81ba1158.chunk.css.map",
+    "static/js/2.054a2877.chunk.js.LICENSE.txt": "/goodie-bag-studio/static/js/2.054a2877.chunk.js.LICENSE.txt",
+    "static/media/bro.88762044.PNG": "/goodie-bag-studio/static/media/bro.88762044.PNG",
     "static/media/gb-logo-dark.3b6a4526.jpg": "/goodie-bag-studio/static/media/gb-logo-dark.3b6a4526.jpg",
-    "static/media/landing-page.styles.css": "/goodie-bag-studio/static/media/landing-bg1.d8cfe3e4.jpg"
+    "static/media/landing-page.styles.css": "/goodie-bag-studio/static/media/landing-bg1.d8cfe3e4.jpg",
+    "static/media/lkb.5f31ad0a.PNG": "/goodie-bag-studio/static/media/lkb.5f31ad0a.PNG"
   },
   "entrypoints": [
-    "static/js/runtime-main.4e0e9390.js",
-    "static/js/2.f0e36270.chunk.js",
-    "static/css/main.4ff1fc1d.chunk.css",
-    "static/js/main.a33e9bce.chunk.js"
+    "static/js/runtime-main.804b3cf0.js",
+    "static/js/2.054a2877.chunk.js",
+    "static/css/main.81ba1158.chunk.css",
+    "static/js/main.1eeb37c6.chunk.js"
   ]
 }
