@@ -15,7 +15,7 @@ const LandingPage = () =>
       </div>
       <div className="landing-lower">
         <div className="landing-btn-container">
-        <Link to="/projects">
+        <Link to="/goodie-bag-studio/projects">
           <Button variant="contained" color="primary">
             View projects
           </Button>

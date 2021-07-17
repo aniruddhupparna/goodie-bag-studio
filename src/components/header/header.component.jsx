@@ -15,12 +15,7 @@ import SettingsIcon from '@material-ui/icons/Settings';
 import InfoIcon from '@material-ui/icons/Info';
 import Logo from '../../assets/gb-logo-dark.jpg';
 
-import {
-    BrowserRouter as Router,
-    Switch,
-    Route,
-    Link
-  } from "react-router-dom";
+import {Link} from "react-router-dom";
 
 const useStyles = makeStyles({
   list: {
@@ -32,9 +27,9 @@ const useStyles = makeStyles({
 });
 
 const navLinks = [
-    {name: 'Projects', icon: <CodeIcon/>, route: '/projects'},
-    {name: 'Bots', icon: <SettingsIcon/>, route: '/bots'},
-    {name: 'About', icon: <InfoIcon/>, route: '/about'}
+    {name: 'Projects', icon: <CodeIcon/>, route: '/goodie-bag-studio/projects'},
+    {name: 'Bots', icon: <SettingsIcon/>, route: '/goodie-bag-studio/bots'},
+    {name: 'About', icon: <InfoIcon/>, route: '/goodie-bag-studio/about'}
 ]
 
 export default function Header() {

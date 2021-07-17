@@ -13,10 +13,10 @@ function App() {
       <Router>
         <Header />
         <Switch>
-          <Route path="/bots" component={BotsPage} />
-          <Route path="/about" component={AboutPage} />
-          <Route path="/projects" component={Projects} />
-          <Route exact path="/" component={LandingPage}/>
+          <Route path="/goodie-bag-studio/bots" component={BotsPage} />
+          <Route path="/goodie-bag-studio/about" component={AboutPage} />
+          <Route path="/goodie-bag-studio/projects" component={Projects} />
+          <Route exact path="/goodie-bag-studio/" component={LandingPage}/>
         </Switch>
       </Router>
     </div>

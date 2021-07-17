@@ -1,0 +1,19 @@
+@keyframes move-up {
+    from {
+            transform: translateY(50vh);
+        }
+    to {
+            transform: translateY(0vh);
+        }
+}
+
+.card {
+    width: 345px;
+    margin: 30px;
+    transform: translateY(50vh);
+    animation: move-up 1s linear forwards;
+}
+
+.card-media {
+    height: 300px;
+}
