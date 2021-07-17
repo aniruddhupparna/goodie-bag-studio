@@ -21,12 +21,19 @@
     color: black;
 }
 
-.projects-btn-container {
-    margin:30px;
+.landing-lower{
+    height: 50vh;
     text-align: center;
+    background: url('../../assets/landing-bg1.jpg') no-repeat center;
+    background-color: #102c52;
 }
 
 .goodie-bag-logo {
     width: 200px;
     height: 200px;
+}
+
+.landing-btn-container {
+    display: inline-block;
+    margin-top: 100px;
 }
