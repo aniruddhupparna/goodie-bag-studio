@@ -1,5 +1,5 @@
 # goodie-bag-studio
-Listing site for games developed by goodie bag group members
+Listing site for games/projects developed by goodie bag group members
 
 tech stack:
 React (create-react-app)
