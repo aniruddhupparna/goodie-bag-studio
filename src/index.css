@@ -17,3 +17,8 @@ a {
   text-decoration: none;
   color: black;
 }
+
+@font-face {
+  font-family: lulo;
+  src: url('./assets/fonts/lulo.ttf');
+}

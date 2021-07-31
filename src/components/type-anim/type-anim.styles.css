@@ -1,0 +1,17 @@
+@keyframes blink {
+    0%  { opacity: 0;}
+    100% { opacity: 1;}
+}
+
+.type-anim {
+    /* animation: typing-anim; */
+}
+.caret {
+    display: inline-block;
+    animation: blink 1s infinite ease-in-out forwards;
+    opacity: 0;
+    /* color: green; */
+    padding-left: 10px;
+    /* font-size: 20px; */
+    font-weight: bold;
+}

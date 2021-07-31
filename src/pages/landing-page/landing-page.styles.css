@@ -1,39 +1,34 @@
 .landing-page-container {
     width: 100vw;
+    height: 100vh;
     position: absolute;
     top: 0;
+    background: url('../../assets/images/laptop.png') center no-repeat #13478c;
+    background-size: contain;
+    text-align: center;
 }
 
-.landing-upper {
-    height: 50vh;
-    width: 100%;
-    background: whitesmoke;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-evenly;
+.landing-logo-container {
+    margin-top: 200px;
 }
 
 .landing-title {
     font-size: 2rem;
     font-family: 'Roboto';
     font-weight: bold;
-    color: black;
+    color: white;
+    margin: 50px 0;
 }
 
-.landing-lower{
-    height: 50vh;
-    text-align: center;
-    background: url('../../assets/landing-bg1.jpg') no-repeat center;
-    background-color: #102c52;
-}
 
 .goodie-bag-logo {
-    width: 200px;
-    height: 200px;
+    width: 20vh;
+    height: 20vh;
+    /* background: white;
+    border-radius: 30%; */
 }
 
 .landing-btn-container {
     display: inline-block;
-    margin-top: 100px;
+    margin-top: 20px;
 }

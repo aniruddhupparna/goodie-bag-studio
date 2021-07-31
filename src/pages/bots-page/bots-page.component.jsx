@@ -1,8 +1,8 @@
 import React from 'react';
 import './bots-page.styles.css';
 import DetailsCard from '../../components/card/card.component';
-import BroImg from '../../assets/bro.PNG';
-import LkbImg from '../../assets/lkb.PNG';
+import BroImg from '../../assets/images/bro.PNG';
+import LkbImg from '../../assets/images/lkb.PNG';
 
 const bots = [
     {

@@ -13,7 +13,8 @@ import MenuIcon from '@material-ui/icons/Menu';
 import CodeIcon from '@material-ui/icons/Code';
 import SettingsIcon from '@material-ui/icons/Settings';
 import InfoIcon from '@material-ui/icons/Info';
-import Logo from '../../assets/gb-logo-dark.jpg';
+import Logo from '../../assets/images/gb-logo-dark.jpg';
+import TimelineIcon from '@material-ui/icons/Timeline';
 
 import {Link} from "react-router-dom";
 
@@ -29,6 +30,7 @@ const useStyles = makeStyles({
 const navLinks = [
     {name: 'Projects', icon: <CodeIcon/>, route: '/goodie-bag-studio/projects'},
     {name: 'Bots', icon: <SettingsIcon/>, route: '/goodie-bag-studio/bots'},
+    {name: 'Dev Roadmap', icon: <TimelineIcon/>, route: 'goodie-bag-studio/dev-roadmap'},
     {name: 'About', icon: <InfoIcon/>, route: '/goodie-bag-studio/about'}
 ]
 
